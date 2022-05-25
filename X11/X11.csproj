@@ -7,13 +7,13 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Authors>Andrew Newlands</Authors>
+    <Authors>theoparis</Authors>
     <Product />
     <Description>An interface to the X11 / X Windows libraries, notably including core Xlib but also including extensions such as XTest from .Net core/C#. This allows C# programmers to interact with the X Window system commonly seen on Linux (and other Unix) systems.</Description>
-    <PackageProjectUrl>https://github.com/ajnewlands/X11.Net</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/ajnewlands/X11.Net</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/theo-os/x11.net</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/theo-os/x11.net</RepositoryUrl>
     <PackageTags>X11 Xlib "X Windows"</PackageTags>
-    <PackageLicenseUrl>https://github.com/ajnewlands/X11.Net/blob/master/X11/License.txt</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/theo-os/x11.net/blob/main/X11/License.txt</PackageLicenseUrl>
     <Version>1.0.6</Version>
     <AssemblyVersion>1.0.6.0</AssemblyVersion>
   </PropertyGroup>
